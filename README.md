@@ -1,5 +1,5 @@
 # 💫 About Me:
-What is on my desk?: GlobeOps, Juicebox, and MIE.<br><br>What is on my shelf?: Hoard&Haggle, Domictl,<br><br>Where can I be contacted?: contact@vauren.dev // vauren.dev<br><br>My Projects:<br>*Active //<br>- Hoard & Haggle<br>- Juicebox<br>- GlobeOps<br>- DomiCTL<br>*Archived //<br>- R20.EzExhaust2024<br>- TheFoulWind
+What is on my desk?: GlobeOps, Juicebox, and MIE.<br><br>What is on my shelf?: Hoard&Haggle, Domictl,<br><br>Where can I be contacted?: contact@vauren.dev // www.vauren.dev<br><br>My Projects:<br>*Active //<br>- Hoard & Haggle<br>- Juicebox<br>- GlobeOps<br>- DomiCTL<br>*Archived //<br>- R20.EzExhaust2024<br>- TheFoulWind
 
 
 # 💻 Tech Stack:
