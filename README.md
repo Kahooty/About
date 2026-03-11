@@ -7,7 +7,6 @@ What is on my desk?: GlobeOps, Juicebox, and MIE.<br><br>What is on my shelf?: H
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kahooty&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kahooty&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahooty&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kahooty) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/kahooty) 
