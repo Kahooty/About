@@ -1,4 +1,3 @@
-
 ![On My Desk](https://img.shields.io/badge/On_My_Desk-GlobeOps_·_Juicebox_·_MIE-222222?style=for-the-badge)
 ![On My Shelf](https://img.shields.io/badge/On_My_Shelf-Hoard_&_Haggle_·_DomiCTL-222222?style=for-the-badge)
 
@@ -27,10 +26,18 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kahooty/kahooty/output/pacman-contribution-graph.svg">
 </picture>
 
-![](https://github-readme-stats.vercel.app/api?username=Kahooty&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kahooty&theme=swift&hide_border=false)<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kahooty&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kahooty&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=kahooty&theme=dark&hide_border=true">
+</picture>
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kahooty) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/kahooty) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kahooty&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kahooty&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kahooty&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+</picture>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kahooty) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/kahooty) 
