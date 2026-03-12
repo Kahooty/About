@@ -5,8 +5,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
   generate:
@@ -14,9 +13,8 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
-      - name: Generate tank-contribution-graph.svg
+      - name: Generate SVGs
         uses: Kahooty/gitTanks@main
         with:
           github_user_name: ${{ github.repository_owner }}
